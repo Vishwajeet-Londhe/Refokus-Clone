@@ -1,3 +1,3 @@
 # Refokus-Clone
 
-In this project 
+In this project, I successfully cloned Refokus
