@@ -1,3 +1,3 @@
 # Refokus-Clone
 
-In this project, I successfully cloned Refokus website 
+In this project, I successfully cloned Refokus website using React
